@@ -1,6 +1,6 @@
 <?php
 
-// contoh komentar
+// contoh komentar client
 // *******************
 
 require_once('lib/DBClass.php');
